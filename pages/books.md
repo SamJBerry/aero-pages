@@ -1,3 +1,9 @@
+---
+title: Books
+---
+
+# List of books referenced on this site
+
 [bibtexify hideMissing=true]
 @book{barnard2010aircraft,
   title={Aircraft Flight: A Description of the Physical Principles of Aircraft Flight},
