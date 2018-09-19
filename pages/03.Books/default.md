@@ -2,7 +2,7 @@
 title: Books
 ---
 
-# Books and Papers referenced in this site
+Books and Papers referenced in this site
 [bibtexify hideMissing=true]
 @book{barnard2010aircraft,
   title={Aircraft Flight: A Description of the Physical Principles of Aircraft Flight},
