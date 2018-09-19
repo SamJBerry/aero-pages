@@ -2,4 +2,4 @@
 title: References
 ---
 
-[Linked Content](Books)
+[Books](books)
