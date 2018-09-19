@@ -3,4 +3,4 @@ title: Symbols
 ---
 
 * $p$..Pressure
-* $\rho%..Density
+* $\rho$..Density
