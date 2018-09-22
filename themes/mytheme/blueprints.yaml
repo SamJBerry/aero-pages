@@ -1,0 +1,9 @@
+name: MyTheme
+version: 1.0.0
+description: "Custom extensions for learn2"
+icon: crosshairs
+author:
+ name: Sam Berry
+ email: na@na.org
+ url: eng.berrys.me
+license: MIT
