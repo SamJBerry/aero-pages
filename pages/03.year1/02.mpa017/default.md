@@ -10,4 +10,6 @@ Crystals in a material are built up with crystal lattice. Crystal structures can
 ### FCC - Face-centred cubic lattice
 
 The FCC lattice is a cubic unit cell with one atom on each corner and one atom on each face.
-There are $(8\times\frac{1}{8}) + (6\times\frac{1}{2}) = 4$
+There are $(8\times\frac{1}{8}) + (6\times\frac{1}{2}) = 4$ atoms in each unit cell.
+
+![](fcc-lattice.png)
