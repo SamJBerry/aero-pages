@@ -7,7 +7,7 @@ title: Year 1 Modules
 | Module Code| Module| Module Credits| Semester|
 |---|---|---|---|
 | MAA104| Engineering Mathematics 1| 10| 1|
-| MPA017| Engineering Materials| 10| 1|
+| [MPA017](/mpa017)| Engineering Materials| 10| 1|
 | TTA003| Fluid Mechanics| 5 + 5| 1 & 2|
 | TTA005| Thermodynamics| 5 + 5| 1 & 2|
 | TTA014| Computing| 5 + 5| 1 & 2|
