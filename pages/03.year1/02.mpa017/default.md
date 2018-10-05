@@ -39,7 +39,7 @@ l^{2} + l^{2} = (4r)^{2}\\
 2l^{2} = 16r^{2}\\
 l = \sqrt{8r^{2}} = 2\sqrt{2}r\\
 Volume of cell = l^{3} = 16\sqrt{2}r^{3}\\
-Volume of atoms in cell = 4 \times \frac{4}{3}\pi r^{3}\\
+Volume of atoms in cell = 4 \times \frac{4}{3}\pir^{3}\\
 
 Packing ratio = \frac{Volume of atoms in cell}{Volume of cell}\\
 =\frac{\frac{16\pir^{3}}{3}}{16\sqrt{2}r^{3}}\\
