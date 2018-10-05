@@ -41,6 +41,5 @@ l = \sqrt{8r^{2}} = 2\sqrt{2}r\\
 \text{Volume of atoms in cell} = 4 \times \frac{4}{3} \pi r^{3}\\
 
 \text{Packing ratio} = \frac{\text{Volume of atoms in cell}}{\text{Volume of cell}}\\
-=\frac{\frac{16 \pi r^{3}}{3}}{16\sqrt{2}r^{3}}\\
-\approx0.74\\
+=\frac{\frac{16}{3} \pi r^{3}}{16\sqrt{2}r^{3}}\approx0.74\\
 $$
