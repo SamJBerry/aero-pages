@@ -33,17 +33,14 @@ The packing efficiency is defined as: $\frac{Volume of atoms inside of unit cell
 1. Calculate the packing efficiency for a FCC lattice.
 
 $$
-\begin{align}
-Shortest path across touching atoms is 4r across face of unit cell.\\
+\text{Shortest path across touching atoms is 4r across face of unit cell.}\\
 l^{2} + l^{2} = (4r)^{2}\\
 2l^{2} = 16r^{2}\\
 l = \sqrt{8r^{2}} = 2\sqrt{2}r\\
-Volume of cell = l^{3} = 16\sqrt{2}r^{3}\\
-Volume of atoms in cell = 4 \times \frac{4}{3}\pir^{3}\\
+\text{Volume of cell} = l^{3} = 16\sqrt{2}r^{3}\\
+\text{Volume of atoms in cell} = 4 \times \frac{4}{3}\pir^{3}\\
 
-Packing ratio = \frac{Volume of atoms in cell}{Volume of cell}\\
+\text{Packing ratio} = \text{\frac{Volume of atoms in cell}{Volume of cell}}\\
 =\frac{\frac{16\pir^{3}}{3}}{16\sqrt{2}r^{3}}\\
 \approx0.74\\
-
-\end{align}
 $$
