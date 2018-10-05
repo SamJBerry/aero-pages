@@ -30,7 +30,7 @@ Number of atoms in unit cell: $(12\times\frac{1}{6}) + (2\times\frac{1}{2}) + 3 
 
 ## Crystal Packing
 
-The packing efficiency is defined as: $\frac{Volume of atoms inside of unit cell}{Volume of unit cell}
+The packing efficiency is defined as: $\frac{\text{Volume of atoms inside of unit cell}}{\text{{Volume of unit cell}}$
 
 ### Examples
 
