@@ -13,7 +13,7 @@ title: Year 1 Modules
 | TTA014| Computing| 5 + 5| 1 & 2|
 | TTA106| Aircraft Systems & Performance| 10| 1|
 | TTA206| Introduction to Aircraft Design| 5 + 5| 1 & 2|
-| TTA208| Manufacturing, Technology & Management| 5 + 5| 1 & 2|
+| [TTA208](/year1/tta208)| Manufacturing, Technology & Management| 5 + 5| 1 & 2|
 | MAA204| Engineering Mathematics 2 | 10| 2|
 | TTA001| Engineering Mechanics| 10| 2|
 | TTA104| Elasticity| 10| 2|
